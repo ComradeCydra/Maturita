@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651043379 source:c:\users\temp.jaroska\downloads\mat20\main.cpp
+	<iostream>
+	<fstream>
+
