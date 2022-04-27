@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1641969032 source:c:\users\temp.jaroska\documents\libraryproject\main.cpp
+	<iostream>
+	"pozdravy.h"
+
+1641968764 source:c:\users\temp.jaroska\documents\libraryproject\pozdravy.cpp
+	<iostream>
+
+1641970505 c:\users\temp.jaroska\documents\libraryproject\pozdravy.h
+

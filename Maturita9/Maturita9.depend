@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1641972120 source:c:\users\temp.jaroska\documents\maturita9\main.cpp
+	<iostream>
+	<cstring>
+	"retezce.h"
+
+1641974254 source:c:\users\temp.jaroska\documents\maturita9\retezce.cpp
+	<cstring>
+	"retezce.h"
+
+1641971145 c:\users\temp.jaroska\documents\maturita9\retezce.h
+
+1643180746 source:p:\cpp\maturita9\main.cpp
+	<iostream>
+	<cstring>
+	"retezce.h"
+
+1641938744 p:\cpp\maturita9\retezce.h
+
+1643180614 source:p:\cpp\maturita9\retezce.cpp
+	<cstring>
+	<iostream>
+	"retezce.h"
+
